@@ -1,2 +1,2 @@
 # std.hpp
-Import C++20 Standard Library by default
+Import C++23 Standard Library by default
